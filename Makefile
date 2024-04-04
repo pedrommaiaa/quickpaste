@@ -1,1 +1,1 @@
-run:; go run cmd/web/*
+run:; python3 run.py
